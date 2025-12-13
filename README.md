@@ -41,15 +41,15 @@
 
 ## 🔍 GitHub Analytics
 <div align="center">
-
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=anas18x&show_icons=true&theme=tokyonight&hide_border=true" 
   style="max-width: 48%; height: auto;"/>
  <img height="180" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true&include_forks=true&count_private=true&cache_seconds=3600" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true&include_forks=true&count_private=true" 
      style="max-width: 48%; height: auto;" />
 
 </div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=anas18x&theme=tokyonight&hide_border=true"
