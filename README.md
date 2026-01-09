@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img height="18" src="https://komarev.com/ghpvc/?username=anas18x&label=Profile%20Views&color=brightgreen&style=flat" />
+  <img height="18" src="https://komarev.com/ghpvc/?username=anas18&label=Profile%20Views&color=brightgreen&style=flat" />
 </div>
 
 <br>
