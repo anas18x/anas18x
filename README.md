@@ -41,26 +41,26 @@
 
 ## 🔍 GitHub Analytics
 <div align="center">
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anas18x&show_icons=true&theme=tokyonight&hide_border=true" 
-  style="max-width: 48%; height: auto;"/>
- <img height="180" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true&include_forks=true&count_private=true" 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anas18x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" style="max-width: 48%; height: auto;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true&include_forks=true&count_private=true" 
      style="max-width: 48%; height: auto;" />
-
+       
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas18x&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
+</div>
+
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anas18x&theme=tokyonight&hide_border=true"
-    style="max-width: 100%; height: auto;" />
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anas18x&theme=tokyo-night&hide_border=true" alt="Contribution Graph" style="max-width: 100%; height: auto;"/>
 
 
 
 
 </div>
-<br>
+<br> 
 
 
 
