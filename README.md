@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img height="18" src="https://komarev.com/ghpvc/?username=anas18&label=Profile%20Views&color=brightgreen&style=flat" />
+  <img height="18" src="https://komarev.com/ghpvc/?username=anas18o&label=Profile%20Views&color=brightgreen&style=flat" />
 </div>
 
 <br>
@@ -41,15 +41,18 @@
 
 ## 🔍 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anas18x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" style="max-width: 48%; height: auto;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true&include_forks=true&count_private=true" 
-     style="max-width: 48%; height: auto;" />
-       
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true&include_forks=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=anas18x&theme=tokyonight&hide_border=true&v=1"
+  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas18x&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
-</div>
+
+
 
 
 
