@@ -40,16 +40,16 @@
 <br><br>
 
 ## 🔍 GitHub Analytics
-<div align="center">
+<p align="center">
   <img
-    height="180em"
+    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true&include_forks=true&count_private=true"
   />
   <img
-    height="180em"
     src="https://streak-stats.demolab.com?user=anas18x&theme=tokyonight&hide_border=true&v=1"
   />
-</div>
+</p>
+
 
 
 
