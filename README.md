@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img height="18" src="https://komarev.com/ghpvc/?username=anas18o&label=Profile%20Views&color=brightgreen&style=flat" />
+  <img height="18" src="https://komarev.com/ghpvc/?username=anas18i&label=Profile%20Views&color=brightgreen&style=flat" />
 </div>
 
 <br>
@@ -57,10 +57,11 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anas18x&theme=tokyo-night&hide_border=true" alt="Contribution Graph" style="max-width: 100%; height: auto;"/>
-
-
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=anas18x&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true&radius=16"
+    style="max-width:100%; height:auto;"
+  />
+  
 
 </div>
 <br> 
