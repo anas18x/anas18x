@@ -3,12 +3,6 @@
 
 <br>
 
-<div align="center">
-  <img height="18" src="https://komarev.com/ghpvc/?username=anas18i&label=Profile%20Views&color=brightgreen&style=flat" />
-</div>
-
-<br>
-
 ## ✨ What I’m Good At 
 
 <div align="center">
@@ -68,5 +62,6 @@
 
 
 
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=5A4FCF&background=00000000&width=580&lines=%3E+Building%2C+Breaking%2C+Learning%2C+Repeating.)](https://git.io/typing-svg)
+ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=5A4FCF&background=00000000&width=580&lines=%3E+Building%2C+Breaking%2C+Learning%2C+Repeating.)](https://git.io/typing-svg)
