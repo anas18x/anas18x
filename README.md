@@ -34,7 +34,7 @@
 <br><br>
 
 ## 🔍 GitHub Analytics
-<p align="center">
+<!-- <p align="center">
   <img
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true&include_forks=true&count_private=true"
@@ -42,7 +42,15 @@
   <img
     src="https://streak-stats.demolab.com?user=anas18x&theme=tokyonight&hide_border=true&v=1"
   />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anas18x&show_icons=true&theme=tokyonight&hide_border=true" height="115"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas18x&theme=tokyonight&hide_border=true" height="115"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true" height="115"/>
 </p>
+
+
 
 
 
