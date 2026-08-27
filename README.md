@@ -2,7 +2,7 @@
 
 <div align="left" style="white-space: nowrap;">
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50" style="vertical-align: middle;">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45" style="vertical-align: middle;">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=29&duration=3001&pause=500&color=5A4FCF&background=00000000&width=610&lines=Hey%2C+I'm+Anas+%3Ba+full-stack+developer+in+the+making." alt="Typing SVG" style="vertical-align: middle;">
 
