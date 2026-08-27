@@ -1,39 +1,65 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=29&duration=3001&pause=500&color=5A4FCF&background=00000000&width=610&lines=👋+Hey%2C+I'm+Anas+;a+full-stack+developer+in+the+making.)](https://git.io/typing-svg)
+<!-- ABOUT ME STICKER -->
 
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45">
+
+<!-- TYPING SVG -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=29&duration=3001&pause=500&color=5A4FCF&background=00000000&width=610&lines=Hey%2C+I'm+Anas+%3Ba+full-stack+developer+in+the+making." alt="Typing SVG"/>
 
 <br>
 
-## ✨ What I’m Good At 
-
+## ✨ 𝑊ℎ𝑎𝑡 𝐼’𝑚 𝐺𝑜𝑜𝑑 𝐴𝑡
 <div align="center">
 
-<!-- LANGUAGES -->
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" height="45" />
+###### 💻 Languages:
 
-<!-- FRONTEND -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" height="45" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" height="40" />
 
-<!-- BACKEND -->
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
+<br>
 
-<!-- DATABASE -->
-<img src="https://skillicons.dev/icons?i=mongodb" height="45" />
+###### 🎨 Frontend Frameworks & Libraries:
 
-<!-- TOOLS -->
-<img src="https://skillicons.dev/icons?i=git,github,postman" height="45" />
-<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="40" />
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" height="30" />
 
-<!-- Custom Badges -->
+<br>
 
-<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-E74C3C?style=for-the-badge&logo=api&logoColor=white" />
+###### 🚀 Backend Frameworks & Libraries:
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
+
+<br>
+
+###### ⚡ APIs & Real-Time:
+
+<img src="https://img.shields.io/badge/REST_API-E74C3C?style=for-the-badge&logo=fastapi&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" height="30" />
+
+<br>
+
+###### 🗄️ Database & ORM:
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" height="40" />
+
+<br>
+
+###### 🛠️ Tools & Platforms:
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" />
 
 </div>
 
-<br><br>
+<br>
 
-## 🔍 GitHub Analytics
+---
+
+<!-- GITHUB STATS -->
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">  ***GitHub Stats***
+
+
 <!-- <p align="center">
   <img
     height="200"
