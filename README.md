@@ -1,14 +1,18 @@
-<!-- ABOUT ME STICKER -->
+<!-- ABOUT ME -->
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45">
+<div align="left" style="white-space: nowrap;">
 
-<!-- TYPING SVG -->
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50" style="vertical-align: middle;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=29&duration=3001&pause=500&color=5A4FCF&background=00000000&width=610&lines=Hey%2C+I'm+Anas+%3Ba+full-stack+developer+in+the+making." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=29&duration=3001&pause=500&color=5A4FCF&background=00000000&width=610&lines=Hey%2C+I'm+Anas+%3Ba+full-stack+developer+in+the+making." alt="Typing SVG" style="vertical-align: middle;">
 
+</div>
+
+<br>
 <br>
 
 ## ✨ 𝑊ℎ𝑎𝑡 𝐼’𝑚 𝐺𝑜𝑜𝑑 𝐴𝑡
+
 <div align="center">
 
 ###### 💻 Languages:
@@ -57,10 +61,11 @@
 
 <!-- GITHUB STATS -->
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">  ***GitHub Stats***
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; ***GitHub Stats***
 
+<!-- Alternative GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
   <img
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true&include_forks=true&count_private=true"
@@ -68,33 +73,32 @@
   <img
     src="https://streak-stats.demolab.com?user=anas18x&theme=tokyonight&hide_border=true&v=1"
   />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anas18x&show_icons=true&theme=tokyonight&hide_border=true" height="115"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true" height="115"/>
 </p>
 
+-->
 
-
-
-
-
-
-
+<!-- <p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=anas18x&show_icons=true&theme=tokyonight&hide_border=true"
+    height="115"
+  /> -->
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true"
+    height="115"
+  />
+</p>
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=anas18x&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true&radius=16"
-    style="max-width:100%; height:auto;"
-  />
-  
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=anas18x&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true&radius=16"
+  style="max-width:100%; height:auto;"
+/>
 
 </div>
-<br> 
 
+<br>
 
+<!-- TYPING FOOTER -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=5A4FCF&background=00000000&width=580&lines=%3E+Building%2C+Breaking%2C+Learning%2C+Repeating.)](https://git.io/typing-svg)
- -->
-
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=5A4FCF&background=00000000&width=580&lines=%3E+Building%2C+Breaking%2C+Learning%2C+Repeating.)](https://git.io/typing-svg) -->
