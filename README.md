@@ -9,6 +9,7 @@
 </div>
 
 <br>
+
 <br>
 
 ## ✨ 𝑊ℎ𝑎𝑡 𝐼’𝑚 𝐺𝑜𝑜𝑑 𝐴𝑡
@@ -24,8 +25,12 @@
 ###### 🎨 Frontend Frameworks & Libraries:
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="40" />
-<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="30" />
+
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" height="30" />
+
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white" height="30" />
+
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="30" />
 
 <br>
 
@@ -38,6 +43,7 @@
 ###### ⚡ APIs & Real-Time:
 
 <img src="https://img.shields.io/badge/REST_API-E74C3C?style=for-the-badge&logo=fastapi&logoColor=white" height="30" />
+
 <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" height="30" />
 
 <br>
@@ -51,6 +57,7 @@
 ###### 🛠️ Tools & Platforms:
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
+
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" />
 
 </div>
@@ -63,30 +70,22 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; ***GitHub Stats***
 
-<!-- Alternative GitHub Analytics
-
-<p align="center">
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=anas18x&theme=github_dark"
+        height="180"
+      />
+    </td>
+  <td>
   <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true&include_forks=true&count_private=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=github_dark&hide_border=true&title_color=70a5fd"
+    height="180"
   />
-  <img
-    src="https://streak-stats.demolab.com?user=anas18x&theme=tokyonight&hide_border=true&v=1"
-  />
-</p>
-
--->
-
-<!-- <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=anas18x&show_icons=true&theme=tokyonight&hide_border=true"
-    height="115"
-  /> -->
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anas18x&layout=compact&theme=tokyonight&hide_border=true"
-    height="115"
-  />
-</p>
+</td>
+  </tr>
+</table>
 
 <div align="center">
 
